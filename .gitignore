@@ -1,1 +1,8 @@
+# Compiled executable
+movhex
 
+# Object files
+*.o
+
+# macOS metadata
+.DS_Store
